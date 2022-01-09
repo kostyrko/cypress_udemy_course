@@ -1,0 +1,23 @@
+{
+  "name": "cypress_udemy_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostyrko/cypress_udemy_course.git"
+  },
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostyrko/cypress_udemy_course/issues"
+  },
+  "homepage": "https://github.com/kostyrko/cypress_udemy_course#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}
